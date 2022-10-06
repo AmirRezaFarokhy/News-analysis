@@ -3,8 +3,7 @@ Checking the news using artificial intelligence algorithms. Acceptable percentag
 
 # Formula 
 Use this simple formula for tokenization each word:
-![formula](https://user-images.githubusercontent.com/113052872/192907744-cd3934e8-79ca-498d-8a22-04e60d323853.jpeg)
-
+![download](https://user-images.githubusercontent.com/113052872/194339857-fac5f650-4f2f-49ad-ab4d-1972b3afc18d.png)
 
 ### Requirements
 Running `News-analysis` requires:
